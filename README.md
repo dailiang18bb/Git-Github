@@ -4,5 +4,5 @@ https://classroom.udacity.com/courses/ud775/lessons/2980038599/concepts/29607789
 
 
 ## Automaticlly compare files  
-Windows `FC`   
-Linux & Mac `Diff`
+Windows `FC`   fc [file1Name] [file2Name]
+Linux & Mac `Diff` diff -u [file1Name] [file2Name]
