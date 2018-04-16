@@ -14,7 +14,8 @@ http://184.182.233.150/rid=1LW06D9V6-26428MK-1Z64/Mezirow's%20chapter,%20How%20C
 
 
 ## git command
-`git clone [URL]`  //clone the repository to your local computer  
-`git log` //check the version list  
+
+`git clone [URL]`  //Make a copy of an entire Git repository, including the history, onto your own computer.    
+`git log` //Show the commits made in this repository, starting with the most recent.  
 `git diff [ID1] [ID2]`  //compare the different between the two files.  
-`git checkout [commit ID]` //revert to an old version
+`git checkout [commit ID]` //Temporarily reset all files in a directory to their state at the time of a specific commit.
